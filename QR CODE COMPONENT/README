@@ -1,0 +1,65 @@
+# QR-code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+Developing a QR-code component project using HTML and CSS.
+
+### Screenshot
+
+- Desktop
+![](./images/QR%20CODE%20DESKTOP.png)
+
+- Mobile
+
+![](./images/QR%20CODE%20MOBILE%20DESIGN.png)
+
+
+### Links
+
+- Solution URL: [Solution URL](https://github.com/SAMUELMICHAEL101/WEB-DEVELOPER-FRONT-END/tree/main/QR%20CODE%20COMPONENT)
+- Live Site URL: [Live site URL](http://127.0.0.1:5500/Index.html)
+
+## My process
+
+- I developed this project using HTML & CSS.
+- Tool: Visual Studio Code (VS Code)
+        Github to host project
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+### What I learned
+
+I was challenged to apply my knowledge in practice, which helped me gain a deeper understanding of each concept. It took time, but the effort was absolutely worth it.
+
+
+## Author
+
+- Website - [SamuelMichael101](https://github.com/SAMUELMICHAEL101)
+- Frontend Mentor - [@SAMUELMICHAEL101](https://www.frontendmentor.io/profile/SAMUELMICHAEL101)
+
+
+## Acknowledgments
+
+Special acknowledgments to Frontend Mentor for offering this challenge and making it freely accessible, enabling individuals like me to put our learning into practice.
